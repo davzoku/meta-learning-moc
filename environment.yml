@@ -1,0 +1,9 @@
+name: meta-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pytorch
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/meta-learning
